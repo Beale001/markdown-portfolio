@@ -1,2 +1,2 @@
-*intuitive software
-*more intuitive softwares
+* intuitive software
+* more intuitive softwares
